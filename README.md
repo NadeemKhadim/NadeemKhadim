@@ -12,7 +12,6 @@
 
 I'm Nadeem Khadim, an Information Security Compliance Analyst. With a strong passion for cybersecurity and network security, I oversee the security and compliance of healthcare-related products and manage AWS cloud security frameworks. My goal is to protect and improve the security and privacy of online identities and data.
 
-- 📧 Contact: [nadeemtrick88@gmail.com](mailto:nadeemtrick88@gmail.com)
 - 🌐 LinkedIn: [linkedin.com/in/nadeemkhadim](https://www.linkedin.com/in/nadeemkhadim)
 
 Sure, here are the cybersecurity skills for your README:
@@ -82,7 +81,6 @@ A Flask web application designed for advanced network scanning using Nmap, compl
 
 ## 📫 How to reach me
 
-- **Email**: [nadeemtrick88@gmail.com](mailto:nadeemtrick88@gmail.com)
 - **LinkedIn**: [linkedin.com/in/nadeemkhadim](https://www.linkedin.com/in/nadeemkhadim)
 
 ---
