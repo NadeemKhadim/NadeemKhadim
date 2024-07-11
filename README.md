@@ -1,5 +1,4 @@
 
-
 ---
 
 # Nadeem Khadim - Cybersecurity Specialist
