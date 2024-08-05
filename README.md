@@ -1,6 +1,4 @@
-Certainly! Here is the improved content with the certification verification links included:
 
----
 
 # Nadeem Khadim - Cybersecurity Specialist
 
